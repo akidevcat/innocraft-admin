@@ -10,8 +10,8 @@ class1:
 class2:
   name: IT Lesson
   icon: ENCHANTED_BOOK
-  start: 0
-  end: 1
+  start: 600
+  end: 720
   classroom: 107
   compulsory: true
   block-cmds: true
@@ -25,5 +25,5 @@ class3:
 free-time1:
   name: Free time
   icon: FIREWORK_STAR
-  start: 0
-  end: 1380
+  start: 830
+  end: 890

@@ -1,29 +1,5 @@
-class1:
-  name: IT Lesson
-  icon: ENCHANTED_BOOK
-  start: 600
-  end: 720
-  classroom: 106
-  compulsory: true
-  block-cmds: true
-  group: A
-class2:
-  name: IT Lesson
-  icon: ENCHANTED_BOOK
-  start: 600
-  end: 720
-  classroom: 107
-  compulsory: true
-  block-cmds: true
-  group: B
-class3:
-  name: Opening
-  icon: FIREWORK_ROCKET
-  start: 780
-  end: 810
-  classroom: green-stairs
-free-time1:
-  name: Free time
+cell1:
+  name: Регистрация Участников
   icon: FIREWORK_STAR
-  start: 830
-  end: 890
+  start: 600
+  end: 1440

@@ -4,12 +4,14 @@ cell1:
   start: 540
   end: 660
   compulsory: true
+  classroom: discord
 cell2:
   name: Второй Учебный Блок
   icon: ENCHANTED_BOOK
   start: 780
   end: 900
   compulsory: true
+  classroom: discord
 cell3:
   name: Soft Skills
   icon: PLAYER_HEAD

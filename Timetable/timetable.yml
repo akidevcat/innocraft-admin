@@ -13,19 +13,19 @@ cell2:
 cell3:
   name: Soft Skills
   icon: PLAYER_HEAD
-  start: 570
-  end: 630
+  start: 930
+  end: 990
   compulsory: true
 cell4:
   name: Открытие
   icon: FIREWORK_STAR
-  start: 660
-  end: 720
+  start: 960
+  end: 1020
   compulsory: true
   classroom: green_stairs
 cell5:
   name: Рефлексия
   icon: TORCH
-  start: 720
-  end: 780
+  start: 1020
+  end: 1080
   compulsory: true

@@ -23,7 +23,6 @@ cell4:
   icon: FIREWORK_STAR
   start: 1020
   end: 1080
-  compulsory: true
   classroom: green_stairs
 cell5:
   name: Рефлексия

@@ -19,7 +19,7 @@ cell3:
   end: 990
   compulsory: true
 cell4:
-  name: Открытие
+  name: Экскурсия по Японии
   icon: FIREWORK_STAR
   start: 1020
   end: 1080

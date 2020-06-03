@@ -4,14 +4,12 @@ cell1:
   start: 540
   end: 660
   compulsory: true
-  classroom: discord
 cell2:
   name: Второй Учебный Блок
   icon: ENCHANTED_BOOK
   start: 780
   end: 900
   compulsory: true
-  classroom: discord
 cell3:
   name: Soft Skills
   icon: PLAYER_HEAD
@@ -23,7 +21,7 @@ cell4:
   icon: FIREWORK_STAR
   start: 1020
   end: 1080
-  classroom: excursion
+  classroom: discord
   compulsory: false
 cell5:
   name: Рефлексия
@@ -31,9 +29,11 @@ cell5:
   start: 1080
   end: 1140
   compulsory: true
+  classroom: discord
 cell6:
   name: Просмотр Аниме
   icon: TORCH
   start: 1140
   end: 1260
   compulsory: false
+  classroom: discord

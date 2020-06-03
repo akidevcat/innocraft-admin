@@ -19,14 +19,21 @@ cell3:
   end: 990
   compulsory: true
 cell4:
-  name: Экскурсия по Японии
+  name: Встреча со студентами
   icon: FIREWORK_STAR
   start: 1020
   end: 1080
   classroom: excursion
+  compulsory: false
 cell5:
   name: Рефлексия
   icon: TORCH
   start: 1080
   end: 1140
   compulsory: true
+cell6:
+  name: Просмотр Аниме
+  icon: TORCH
+  start: 1140
+  end: 1260
+  compulsory: false

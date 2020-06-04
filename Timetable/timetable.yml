@@ -1,7 +1,7 @@
 cell1:
   name: Первый Учебный Блок
   icon: ENCHANTED_BOOK
-  start: 540
+  start: 0 #540
   end: 660
   compulsory: true
 cell2:

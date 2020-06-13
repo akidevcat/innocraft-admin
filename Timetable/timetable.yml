@@ -1,25 +1,6 @@
 cell1:
-  name: Первый Учебный Блок
-  icon: ENCHANTED_BOOK
-  start: 540
-  end: 660
-  compulsory: true
-cell2:
-  name: Второй Учебный Блок
-  icon: ENCHANTED_BOOK
-  start: 780
-  end: 900
-  compulsory: true
-cell3:
-  name: Soft Skills
-  icon: PLAYER_HEAD
-  start: 930
-  end: 990
-  compulsory: true
-cell4:
-  name: Закрытие
+  name: Свободное Время
   icon: FIREWORK_STAR
-  start: 1020
-  end: 1080
-  classroom: discord
-  compulsory: true
+  start: 0
+  end: 1440
+  compulsory: false
